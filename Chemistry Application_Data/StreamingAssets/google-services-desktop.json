@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "349532282855",
+    "firebase_url": "https://group8-smartchem-sepm.firebaseio.com",
+    "project_id": "group8-smartchem-sepm",
+    "storage_bucket": "group8-smartchem-sepm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349532282855:android:b7a5ba36349a2da7e62742",
+        "android_client_info": {
+          "package_name": "com.Group8.SmartChem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349532282855-gtomdr5ucrtfak5s7gouhk6ab7pmbj2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbvzL11N54duYwhHZLGvBpVH-JmdHXmks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349532282855-gtomdr5ucrtfak5s7gouhk6ab7pmbj2m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "349532282855-jf359d3hn7dv3k6o7f3rsprhi3ss8nv8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Group8.SmartChem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
